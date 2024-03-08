@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(222, 184, 14);
+}
+
+#outerborder{
+    border: red 2px solid;
+    margin: 10px;
+}
+
+.borders{
+    border: red 2px solid;
+    margin: 10px;
+}
+
+#firstp{
+    border: red 2px solid;
+    margin: 10px;
+}
+
+#twoelement{
+    border: red 2px solid;
+    margin: 10px;
+}
+
+button:hover{
+    text-transform: uppercase;
+    background-color: orange;
+}
+
+#linkborder{
+    border: red 2px solid;
+    margin: 10px;
+}
+
+img{
+    opacity: 0.3;
+}
+
+h1:hover{
+    background-color: orange;
+    color: white;
+}
+
+#firstp:hover{
+    text-transform: uppercase;
+    background-color: orange;
+    color: white;
+}
+
+#twoelement:hover{
+    text-transform: uppercase;
+    background-color: orange;
+    color: white;
+}
+
+#linkborder:hover{
+    text-transform: uppercase;
+    background-color: orange;
+}
+
+img:hover{
+    opacity: 1.0;
+}
+
